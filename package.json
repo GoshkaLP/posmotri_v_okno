@@ -1,0 +1,24 @@
+{
+  "name": "posmotri_v_okno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write './**/*.{html,css,js}'",
+    "live": "live-server --no-browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoshkaLP/posmotri_v_okno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoshkaLP/posmotri_v_okno/issues"
+  },
+  "homepage": "https://github.com/GoshkaLP/posmotri_v_okno#readme",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
