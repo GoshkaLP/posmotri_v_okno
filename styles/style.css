@@ -217,7 +217,7 @@ ol {
 }
 
 .content__list {
-  max-height: 298px;
+  height: 298px;
   overflow: auto;
   position: relative;
 }
@@ -308,8 +308,4 @@ ol {
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-}
-
-.content:has(.error) .title {
-  margin-bottom: 324px;
 }
